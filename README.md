@@ -3,7 +3,7 @@
 # Python / FastAI CNN - Playing Game
 > <del>This code was used to gather and process data while playing the game Fall Guys.</del> 
 
-> This code will be modified for permit to use in every game with a minimum edit of the config.yaml file
+> This code will be modified for permit the use in every game with a minimum edit of the config.yaml file
 > The network was then trained using the FastAI Libary.
 
 > THIS IS A <B>BIG</B> WORK IN PROGRESS
