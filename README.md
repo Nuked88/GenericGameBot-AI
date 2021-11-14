@@ -1,4 +1,4 @@
-<div style="width:100%; text-align:center"><img src="https://i.imgur.com/GaRw83d.jpg"></div>
+<div style="width:100%; text-align:center"><img src="https://i.imgur.com/Z2UMneF.png"></div>
 
 # Python / FastAI CNN - Playing Game
 > <del>This code was used to gather and process data while playing the game Fall Guys.</del> 
