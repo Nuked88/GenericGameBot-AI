@@ -1,0 +1,14 @@
+game_name:  Tower_Hero
+path_game: test_path
+region_captured: 
+  left: 710
+  top: 300
+  extensionOfX: 1110
+  extensionOfY: 807
+dummmy_direction: LEFT_KEY
+commands:
+  UP_KEY : 'Nothing'
+  LEFT_KEY : 'Left'
+  DOWN_KEY : 'Down'
+  RIGHT_KEY : 'Right'
+  ' ' : 'Fire'

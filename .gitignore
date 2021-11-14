@@ -4,3 +4,7 @@ models
 data
 *.pkl
 *.pth
+*.jpg
+*.npy
+images/*
+data/*

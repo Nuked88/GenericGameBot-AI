@@ -1,0 +1,13 @@
+game_name:  test
+path_game: test_path
+region_captured: 
+  left: 0
+  top: 36
+  extensionOfX: 771
+  extensionOfY: 512
+commands:
+  W : 'Nothing'
+  A : 'Left'
+  S : 'Down'
+  D : 'Right'
+  ' ' : 'Jump'

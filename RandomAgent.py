@@ -11,6 +11,7 @@ sleepy = 0.1
 
 # Wait for me to push B to start.
 keyboard.wait('B')
+
 time.sleep(sleepy)
 
 # Hold down W no matter what!
